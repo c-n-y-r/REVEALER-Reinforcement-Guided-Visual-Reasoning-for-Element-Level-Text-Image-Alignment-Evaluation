@@ -1,4 +1,4 @@
-# REVEALER-Reinforcement-Guided-Visual-Reasoning-for-Element-Level-Text-Image-Alignment-Evaluation# REVEALER: Reinforcement-Guided Visual Reasoning for Element-Level Text-to-Image Alignment Evaluation
+# REVEALER-Reinforcement-Guided-Visual-Reasoning-for-Element-Level-Text-Image-Alignment-Evaluation
 
 
 ## Overview
