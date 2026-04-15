@@ -6,7 +6,7 @@
 **REVEALER** is a reinforcement-guided visual reasoning framework for **element-level text-to-image alignment evaluation**. Unlike existing coarse-grained metrics (e.g., CLIPScore) or static QA pipelines (e.g., TIFA), REVEALER performs fine-grained, interpretable evaluation by following a structured **"grounding–reasoning–conclusion"** paradigm.
 
 <p align="center">
-  <img src="figures/pipeline2.png" width="95%">
+  <img src="pipeline.png" width="95%">
 </p>
 
 ### Key Features
