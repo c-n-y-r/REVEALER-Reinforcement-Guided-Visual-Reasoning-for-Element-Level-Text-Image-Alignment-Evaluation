@@ -1,0 +1,1 @@
+# REVEALER-Reinforcement-Guided-Visual-Reasoning-for-Element-Level-Text-Image-Alignment-Evaluation
